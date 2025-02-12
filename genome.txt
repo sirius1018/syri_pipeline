@@ -1,0 +1,3 @@
+#file	name    tags
+CGMH058_GCA_013378355.1_genomic.fna	CGMH058
+SK36_GCA_000014205.1_genomic.fna	SK36
