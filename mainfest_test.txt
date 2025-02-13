@@ -1,3 +1,0 @@
-ref_fasta	ref_name	query_fasta	query_name	bam_output
-GCA_013378355.1_ASM1337835v1_genomic.fna	CGMH058	GCA_000188275.1_ASM18827v1_genomic.fna	VMC66	CGMH058_VMC66.bam
-GCA_013378335.1_ASM1337833v1_genomic.fna	CGMH010	GCA_013378355.1_ASM1337835v1_genomic.fna	CGMH058	CGMH010_CGMH058.bam
